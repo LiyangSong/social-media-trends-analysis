@@ -1,1 +1,1 @@
-# -social-media-trends-analysis
+# social-media-trends-analysis
